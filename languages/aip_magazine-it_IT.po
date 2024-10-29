@@ -1,0 +1,1248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AipMagazine\n"
+"POT-Creation-Date: 2017-07-05 11:50+0200\n"
+"PO-Revision-Date: 2017-07-05 11:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: aip_magazine.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: aip_magazine-cats-taxonomy.php:22 aip_magazine-cats-taxonomy.php:32
+msgid "Categories"
+msgstr "Rubriche"
+
+#: aip_magazine-cats-taxonomy.php:23 aip_magazine-post-type.php:96
+msgid "Category"
+msgstr "Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:24
+msgid "Search Categories"
+msgstr "Cerca Rubriche"
+
+#: aip_magazine-cats-taxonomy.php:25 aip_magazine-widgets.php:508
+msgid "All Categories"
+msgstr "Tutte le  Rubriche"
+
+#: aip_magazine-cats-taxonomy.php:26
+msgid "Parent Category"
+msgstr "Rubrica superiore"
+
+#: aip_magazine-cats-taxonomy.php:27
+msgid "Parent Category:"
+msgstr "Rubrica superiore:"
+
+#: aip_magazine-cats-taxonomy.php:28
+msgid "Edit Category"
+msgstr "Modifica Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:29
+msgid "Update Category"
+msgstr "Aggiorna Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:30
+msgid "Add New Category"
+msgstr "Aggiungi una Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:31
+msgid "New Category"
+msgstr "Nuova Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:70
+msgid "No Categories"
+msgstr "Nessuna Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:102 aip_magazine-cats-taxonomy.php:235
+#: aip_magazine-cats-taxonomy.php:269
+msgid "Category Order"
+msgstr "Numero d'Ordine Rubrica"
+
+#: aip_magazine-cats-taxonomy.php:307 aip_magazine-taxonomy.php:463
+msgid "Add Journal"
+msgstr "Aggiungi Rivista"
+
+#: aip_magazine-cats-taxonomy.php:357
+msgid "Category order already used"
+msgstr "Numero d'Ordine Rubrica già in uso"
+
+#: aip_magazine-cats-taxonomy.php:372
+msgid "Category Order inconsistent, record not updated"
+msgstr "Numero d'Ordine Rubrica non corretto, record non aggiornato"
+
+#: aip_magazine-cats-taxonomy.php:402 aip_magazine-jouls-taxonomy.php:20
+#: aip_magazine-jouls-taxonomy.php:30 aip_magazine-taxonomy.php:741
+msgid "Journals"
+msgstr "Riviste"
+
+#: aip_magazine-class.php:87 aip_magazine-class.php:487
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: aip_magazine-class.php:89
+msgid "Help"
+msgstr "Istruzioni"
+
+#: aip_magazine-class.php:281 aip_magazine-class.php:282
+#: aip_magazine-shortcodes.php:228
+msgid "Download PDF"
+msgstr "Scarica il PDF"
+
+#: aip_magazine-class.php:478
+msgid "Settings updated."
+msgstr "Impostazioni aggiornate."
+
+#: aip_magazine-class.php:493
+msgid "General"
+msgstr "Generale"
+
+#: aip_magazine-class.php:509
+msgid "Admin Options"
+msgstr "Impostazioni di Amministrazione"
+
+#: aip_magazine-class.php:517
+msgid "Page for Articles"
+msgstr "Pagina per gli Articoli"
+
+#: aip_magazine-class.php:518 aip_magazine-class.php:522
+#: aip_magazine-class.php:534
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleziona &mdash;"
+
+#: aip_magazine-class.php:521
+msgid "Page for Articles Active Issue"
+msgstr "Pagina per Ultimo Fascicolo"
+
+#: aip_magazine-class.php:523 aip_magazine-class.php:535
+msgid "for Journal"
+msgstr "per la Rivista"
+
+#: aip_magazine-class.php:525 aip_magazine-class.php:537
+#: aip_magazine-class.php:1184 aip_magazine-widgets.php:524
+msgid "None"
+msgstr "Nessuno"
+
+#: aip_magazine-class.php:533
+msgid "Page for Issue Archives"
+msgstr "Pagina per Archivio Fascicoli"
+
+#: aip_magazine-class.php:548
+msgid "CSS Style"
+msgstr "Stili CSS"
+
+#: aip_magazine-class.php:566
+msgid "PDF Download Link Title"
+msgstr "Titolo del Link per il Download del PDF"
+
+#: aip_magazine-class.php:571
+msgid "PDF Only Title"
+msgstr "Titolo del Link per il Download del PDF Singolo"
+
+#: aip_magazine-class.php:576
+msgid "PDF Link Target"
+msgstr "Target per il link al PDF"
+
+#: aip_magazine-class.php:579
+msgid "Open in New Window/Tab"
+msgstr "Apri in una nuova finestra/tab"
+
+#: aip_magazine-class.php:580
+msgid "Open in Same Window/Tab"
+msgstr "Apri nella stessa finestra/tab"
+
+#: aip_magazine-class.php:586
+msgid "Cover Image Size"
+msgstr "Dimensioni dell'Immagine di Copertina"
+
+#: aip_magazine-class.php:588 aip_magazine-class.php:595
+#: aip_magazine-class.php:602
+msgid "Width"
+msgstr "Larghezza"
+
+#: aip_magazine-class.php:588 aip_magazine-class.php:595
+#: aip_magazine-class.php:602
+msgid "Height"
+msgstr "Altezza"
+
+#: aip_magazine-class.php:593
+msgid "Featured Rotator Image Size"
+msgstr "Dimensioni delle Immagini dello Slider"
+
+#: aip_magazine-class.php:600
+msgid "Featured Thumbnail Image Size"
+msgstr "Dimensioni delle Immagini di Anteprima"
+
+#: aip_magazine-class.php:607
+msgid "Default Issue Image"
+msgstr "Immagine di Default del Fascicolo"
+
+#: aip_magazine-class.php:618
+msgid "Remove Custom Default Issue Image"
+msgstr "Rimuovi l'Immagine di Default del Fascicolo"
+
+#: aip_magazine-class.php:624
+msgid "Display Byline As"
+msgstr "Mostra l'Autore come"
+
+#: aip_magazine-class.php:637
+msgid "Show Thumbnail Byline"
+msgstr "Mostra l'Autore nell'Anteprima"
+
+#: aip_magazine-class.php:642
+msgid "Name"
+msgstr "Nome"
+
+#: aip_magazine-class.php:643
+msgid "Use AipMagazine Author Name instead of WordPress Author"
+msgstr "Usa gli Autori di AIPMagazine anzichè quelli di Wordpress"
+
+#: aip_magazine-class.php:647
+msgid "Categories and Tags"
+msgstr "Categorie e Tag"
+
+#: aip_magazine-class.php:648
+msgid "Use Default WordPress Category and Tag Taxonomies"
+msgstr "Usa la Tassonomia di Wordpress (Categorie e Tag)"
+
+#: aip_magazine-class.php:652
+msgid "Links"
+msgstr "Link"
+
+#: aip_magazine-class.php:653
+msgid "Use Taxonomical links instead of shortcode based links for Issues"
+msgstr "Usa i Link della Tassonomia anzichè gli Shortcode di AIPMagazine"
+
+#: aip_magazine-class.php:669
+msgid "AipMagazine Featured Rotator Options"
+msgstr "Opzioni dello Slider"
+
+#: aip_magazine-class.php:676
+msgid "Pagination Navigation"
+msgstr "Paginazione"
+
+#: aip_magazine-class.php:677
+msgid "Display pagination above the slider"
+msgstr "Mostra la paginazione in alto nello slider"
+
+#: aip_magazine-class.php:682
+msgid "Direction Navigation"
+msgstr "Frecce di navigazione"
+
+#: aip_magazine-class.php:683
+msgid "Display previous/next navigation arrows"
+msgstr "Mostra le frecce di navigazione precedente/successivo"
+
+#: aip_magazine-class.php:688
+msgid "Animation Type"
+msgstr "Tipo Animazione"
+
+#: aip_magazine-class.php:711
+msgid "AipMagazine Article Shortcode Format"
+msgstr "Formato dello Shortcode di un Articolo"
+
+#: aip_magazine-class.php:721
+msgid "Save Settings"
+msgstr "Salve le impostazioni"
+
+#: aip_magazine-class.php:746
+msgid "Rate AipMagazine!"
+msgstr "Vota AipMagazine!"
+
+#: aip_magazine-class.php:782
+msgid "AipMagazine Help"
+msgstr "Istruzioni AipMagazine"
+
+#: aip_magazine-class.php:787
+msgid "Getting Started"
+msgstr "Istruzioni"
+
+#: aip_magazine-class.php:790
+msgid ""
+"The following steps will demonstrate how to get started creating your online "
+"magazine."
+msgstr "Segui i seguenti passi per creare la tua Rivista Online."
+
+#: aip_magazine-class.php:793
+msgid "0. Install AipMagazine"
+msgstr "0. Installare AipMagazine"
+
+#: aip_magazine-class.php:796
+msgid "Go to Plugins->Add New and search for AipMagazine"
+msgstr "Vai su Plugin->Aggiungi nuovo e cerca AipMagazine"
+
+#: aip_magazine-class.php:797
+msgid "Click \"Install Now\" and then \"Active Plugin\""
+msgstr "Clicca \"Installa adesso\" e successivamente \"Attiva plugin”."
+
+#: aip_magazine-class.php:800
+msgid "1. Create pages for Current Issue and Past Issues"
+msgstr ""
+"1. Creare le pagine per indice fascicolo, ultimo fascicolo e archivio "
+"fascicoli"
+
+#: aip_magazine-class.php:802
+msgid "Go to Pages->Add New"
+msgstr "Vai su Pagine->Aggiungi nuova"
+
+#: aip_magazine-class.php:803
+msgid ""
+"Create a page for your current issue. We recommend using \"Current Issue\" "
+"as the page title."
+msgstr ""
+"Crea una pagina per il tuo Ultimo Fascicolo. Si consiglia di usare \"Ultimo "
+"Fascicolo\" come titolo di pagina."
+
+#: aip_magazine-class.php:804
+msgid ""
+"Create a page for your issue archives. We recommend using \"Past Issues\" as "
+"the page title."
+msgstr ""
+"Crea una pagina per il tuo Archivio Fascicoli. Si consiglia di usare "
+"\"Archivio Fascicoli\" come titolo di pagina."
+
+#: aip_magazine-class.php:807
+msgid "2. Configure AipMagazine Settings"
+msgstr "2. Configurare le Impostazioni di AipMagazine"
+
+#: aip_magazine-class.php:809
+msgid "Go to Magazine->Settings"
+msgstr "Vai su Magazine->Impostazioni"
+
+#: aip_magazine-class.php:810
+msgid "Choose your page for articles (your current issue page)"
+msgstr "Seleziona la pagina dove visualizzare l'Ultimo Fascicolo"
+
+#: aip_magazine-class.php:811
+msgid "Choose your page for issue archives (your past issues page)"
+msgstr "Seleziona la pagina dove visualizzare l'Archivio dei Fascicoli"
+
+#: aip_magazine-class.php:812
+msgid ""
+"You can configure the rest of the options to your liking, or leave them in "
+"their default state."
+msgstr ""
+"Puoi configurare le altre impostazioni come preferisci, o lasciarle "
+"impostate con i rispettivi valori di default."
+
+#: aip_magazine-class.php:813
+msgid "Click \"Save Settings\""
+msgstr "Clicca su \"Salva le impostazioni\""
+
+#: aip_magazine-class.php:816
+msgid "3. Create a Journal"
+msgstr "3. Creare una Rivista"
+
+#: aip_magazine-class.php:818
+msgid "Go to Magazine->Journals"
+msgstr "Vai su Magazine->Riviste"
+
+#: aip_magazine-class.php:819
+msgid ""
+"Enter the name, the slug, the description and the name of the Journal and "
+"click \"Add New Journal\""
+msgstr ""
+"Inserisci il nome della Rivista, lo slug e la descrizione se necessario, il "
+"codice ISSN (sarà utilizzato per generare i metatags Google Scholar) e "
+"clicca su \"Aggiungi una nuova Rivista\""
+
+#: aip_magazine-class.php:822
+msgid "4. Create an Issue"
+msgstr "4. Creare un Fascicolo"
+
+#: aip_magazine-class.php:824
+msgid "Go to Magazine->Issues"
+msgstr "Vai su Magazine->Fascicoli"
+
+#: aip_magazine-class.php:825
+msgid ""
+"Enter the name of the issue (i.e. Summer 2014) and click \"Add New Issues\""
+msgstr "Inserisci il nome del Fascicolo (ad es. Estate 2016)"
+
+#: aip_magazine-class.php:826
+msgid "Click on the newly created issue title"
+msgstr "Clicca sul nome del Fascicolo appena creato"
+
+#: aip_magazine-class.php:827
+msgid ""
+"Upload a cover image. You can adjust the dimensions of the cover image on "
+"the AipMagazine Settings page."
+msgstr ""
+"Carica l'immagine di copertina del Fascicolo. Puoi modificare le dimensioni "
+"dell'immagine di copertina nelle Impostazioni."
+
+#: aip_magazine-class.php:828
+msgid "Enter any other information for the issue, if applicable"
+msgstr "Inserisci ogni altra informazione del Fascicolo se necessario"
+
+#: aip_magazine-class.php:829 aip_magazine-class.php:853
+msgid "Click \"Update\""
+msgstr "Clicca su \"Aggiorna\""
+
+#: aip_magazine-class.php:832
+msgid "5. Add Articles to the Issue"
+msgstr "5. Aggiungere un Articolo ad un Fascicolo"
+
+#: aip_magazine-class.php:834
+msgid "Go to Magazine->Add New"
+msgstr "Vai su Magazine->Aggiungi un Nuovo Articolo"
+
+#: aip_magazine-class.php:835
+msgid ""
+"Enter the title and content for your article, just like a normal WordPress "
+"post"
+msgstr ""
+"Inserisci il titolo e il contenuto del tuo articolo, come fai normalmente "
+"con i post di WordPress"
+
+#: aip_magazine-class.php:836
+msgid "Add a featured image, if applicable"
+msgstr "Aggiungi una immagine in evidenza, se necessario"
+
+#: aip_magazine-class.php:837
+msgid "Choose the issue the article is related to in the Issues sidebar area"
+msgstr ""
+"Seleziona il Fascicolo a cui appartiene l'Articolo nella area sidebar "
+"Fascicoli"
+
+#: aip_magazine-class.php:838
+msgid ""
+"Adjust the AipMagazine Article Options at the bottom of the article, if "
+"applicable"
+msgstr "Completa le opzioni dell'Articolo in basso, se necessario"
+
+#: aip_magazine-class.php:841
+msgid "6. Add AipMagazine Widgets to Sidebar"
+msgstr "6. Aggiungi il Widget AipMagazine alla Sidebar"
+
+#: aip_magazine-class.php:843
+msgid "Go to Appearance->Widgets"
+msgstr "Vai su Aspetto->Widget"
+
+#: aip_magazine-class.php:844
+msgid "Drag the Issue widget you want to use into your sidebar"
+msgstr "Trascina il widget AipMagazine che vuoi utilizzare nella tua sidecar"
+
+#: aip_magazine-class.php:845
+msgid "Click \"Save\""
+msgstr "Clicca su \"Salva\""
+
+#: aip_magazine-class.php:848
+msgid "7. Set Issue to Published"
+msgstr "9. Pubblicare un Fascicolo"
+
+#: aip_magazine-class.php:850
+msgid "Go to Articles->Issues"
+msgstr "Vai su Magazine->Fascicoli"
+
+#: aip_magazine-class.php:851
+msgid "Click on the title of the issue you want to make live"
+msgstr "Clicca sul titolo del Fascicolo che vuoi pubblicare"
+
+#: aip_magazine-class.php:852
+msgid "Change the Issue Status dropdown to \"Live\""
+msgstr "Modifica lo Stato del Fasciolo in \"Live\""
+
+#: aip_magazine-class.php:858
+msgid "AipMagazine Shortcodes"
+msgstr "Shortcodes di AipMagazine"
+
+#. Plugin Name of the plugin/theme
+#: aip_magazine-class.php:862 aip_magazine-class.php:869
+#: aip_magazine-class.php:895 aip_magazine-class.php:928
+#: aip_magazine-class.php:959
+msgid "AipMagazine"
+msgstr "AipMagazine"
+
+#: aip_magazine-class.php:862
+msgid "Issue Title:"
+msgstr "Titolo del Fascicolo:"
+
+#: aip_magazine-class.php:864
+msgid "This shortcode will display the current issue title."
+msgstr "Questo shortcode mostrerà il Titolo del Fascicolo Attivo."
+
+#: aip_magazine-class.php:869
+msgid "Article Loop:"
+msgstr "Loop degli Articoli:"
+
+#: aip_magazine-class.php:871
+msgid "This shortcode will display the list of articles in an issue."
+msgstr "Questo shortcode mostrerà l'elenco degli Articoli di un Fascicolo."
+
+#: aip_magazine-class.php:873 aip_magazine-class.php:899
+#: aip_magazine-class.php:932 aip_magazine-class.php:963
+msgid "Default Arguments:"
+msgstr "Parametri di Default:"
+
+#: aip_magazine-class.php:876
+msgid "(no pagination)"
+msgstr "(senza paginazione)"
+
+#: aip_magazine-class.php:877 aip_magazine-class.php:905
+#: aip_magazine-class.php:938
+msgid "Active Issue"
+msgstr "Fascicolo Attivo"
+
+#: aip_magazine-class.php:880 aip_magazine-class.php:908
+#: aip_magazine-class.php:941 aip_magazine-class.php:973
+msgid "Accepted Arguments:"
+msgstr "Parametri Accettati:"
+
+#: aip_magazine-class.php:883
+msgid "Any number -1 and greater (-1 = no pagination)"
+msgstr "Qualsiasi numero maggiore o uguale a -1 (-1 = senza paginazione)"
+
+#: aip_magazine-class.php:884 aip_magazine-class.php:914
+#: aip_magazine-class.php:947
+msgid "the Issue slug"
+msgstr "slug del Fascicolo"
+
+#: aip_magazine-class.php:887 aip_magazine-class.php:918
+#: aip_magazine-class.php:950 aip_magazine-class.php:982
+msgid "Examples:"
+msgstr "Esempi:"
+
+#: aip_magazine-class.php:895
+msgid "Featured Article Rotator:"
+msgstr "Slider Articoli in Evidenza:"
+
+#: aip_magazine-class.php:897
+msgid ""
+"This shortcode will display a slideshow of articles that have been checked "
+"to display in the featured rotator."
+msgstr ""
+"Questo shortcode mostrerà uno Slider con gli Articoli in evidenza nel "
+"Fascicolo selezionato."
+
+#: aip_magazine-class.php:902 aip_magazine-class.php:935
+#: aip_magazine-class.php:967
+msgid "taken from settings"
+msgstr "preso dalle impostazioni"
+
+#: aip_magazine-class.php:911 aip_magazine-class.php:944
+#: aip_magazine-class.php:976
+msgid "the Journal id"
+msgstr "id della Rivista"
+
+#: aip_magazine-class.php:928
+msgid "Featured Thumbnails:"
+msgstr "Immagine di Anteprima:"
+
+#: aip_magazine-class.php:930
+msgid ""
+"This shortcode will display the grid of featured article thumbnails in an "
+"issue"
+msgstr ""
+"Questo shortcode mostrerà la griglia degli Articoli in Evidenza di un "
+"Fascicolo"
+
+#: aip_magazine-class.php:959
+msgid "Archive Page:"
+msgstr "Pagina per l'Archivio dei Fascicoli:"
+
+#: aip_magazine-class.php:961
+msgid "This shortcode will display the list of current and past issues."
+msgstr "Questo shortcode mostrerà l'elenco degli Articoli di un Fascicolo."
+
+#: aip_magazine-class.php:979
+msgid "Any number 0 and greater"
+msgstr "Qualsiasi numero maggiore di 0"
+
+#: aip_magazine-class.php:1008
+msgid "AipMagazine Advanced Styles"
+msgstr "Stili Avanzati di AipMagazine"
+
+#: aip_magazine-class.php:1014
+msgid "Advanced Style Options"
+msgstr "Opzioni di Stile Avanzate"
+
+#: aip_magazine-class.php:1023
+msgid "Reset to Default Styles"
+msgstr "Ripristina i valori di default"
+
+#: aip_magazine-class.php:1183
+msgid "Default"
+msgstr "Default"
+
+#: aip_magazine-class.php:1207
+msgid "Dismiss"
+msgstr "Rimuovere"
+
+#: aip_magazine-functions.php:435 aip_magazine-shortcodes.php:738
+#, php-format
+msgid "By %s"
+msgstr "Da %s"
+
+#: aip_magazine-jouls-taxonomy.php:21
+msgid "Journal"
+msgstr "Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:22
+msgid "Search Journal"
+msgstr "Cerca Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:23 aip_magazine-widgets.php:220
+#: aip_magazine-widgets.php:481 aip_magazine-widgets.php:667
+msgid "All Journals"
+msgstr "Tutte le Riviste"
+
+#: aip_magazine-jouls-taxonomy.php:24
+msgid "Parent Journal"
+msgstr "Rivista Superiore"
+
+#: aip_magazine-jouls-taxonomy.php:25
+msgid "Parent Journal:"
+msgstr "Rivista Superiore:"
+
+#: aip_magazine-jouls-taxonomy.php:26
+msgid "Edit Journal"
+msgstr "Modifica la Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:27
+msgid "Update Journal"
+msgstr "Aggiorna la Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:28
+msgid "Add New Journal"
+msgstr "Aggiungi una nuova Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:29
+msgid "New Journal Name"
+msgstr "Nuovo Nome della Rivista"
+
+#: aip_magazine-jouls-taxonomy.php:60 aip_magazine-jouls-taxonomy.php:92
+msgid "ISSN"
+msgstr "ISSN"
+
+#: aip_magazine-parent-category-filter.php:122
+msgid "Filter by Journal"
+msgstr "Filtra per Rivista"
+
+#: aip_magazine-post-type.php:29
+msgid "Magazine"
+msgstr "Magazine"
+
+#: aip_magazine-post-type.php:30 aip_magazine-post-type.php:32
+msgid "Articles"
+msgstr "Articoli"
+
+#: aip_magazine-post-type.php:31
+msgid "Article"
+msgstr "Articolo"
+
+#: aip_magazine-post-type.php:33 aip_magazine-post-type.php:34
+msgid "Add New Article"
+msgstr "Aggiungi un Nuovo Articolo"
+
+#: aip_magazine-post-type.php:35
+msgid "Edit Article"
+msgstr "Modifica Articolo"
+
+#: aip_magazine-post-type.php:36
+msgid "New Article"
+msgstr "Nuovo Articolo"
+
+#: aip_magazine-post-type.php:37
+msgid "View Article"
+msgstr "Mostra Articolo"
+
+#: aip_magazine-post-type.php:38
+msgid "Search Articles"
+msgstr "Cerca Articoli"
+
+#: aip_magazine-post-type.php:39
+msgid "No articles found"
+msgstr "Nessun articolo trovato"
+
+#: aip_magazine-post-type.php:40
+msgid "No articles found in trash"
+msgstr "Nessun articolo trovato nel cestino"
+
+#: aip_magazine-post-type.php:41
+msgid "Parent Item"
+msgstr "Articolo superiore"
+
+#: aip_magazine-post-type.php:45
+msgid "article"
+msgstr "articolo"
+
+#: aip_magazine-post-type.php:47
+msgid "AipMagazine Articles"
+msgstr "Articoli di AipMagazine"
+
+#: aip_magazine-post-type.php:95 aip_magazine-taxonomy.php:21
+msgid "Issue"
+msgstr "Fascicolo"
+
+#: aip_magazine-post-type.php:97
+msgid "Sorting"
+msgstr "Ordinamento"
+
+#: aip_magazine-post-type.php:197
+msgid "AipMagazine Article Options"
+msgstr "Opzioni degli Articoli di AipMagazine"
+
+#: aip_magazine-post-type.php:239
+msgid "Add article to Featured Rotator"
+msgstr "Mostra nello Slider degli Articoli in Evidenza"
+
+#: aip_magazine-post-type.php:242
+msgid "Add article to Featured Thumbnails"
+msgstr "Mostra nella Griglia degli Articoli in Evidenza"
+
+#: aip_magazine-post-type.php:245
+msgid "Teaser Text"
+msgstr "Occhiello"
+
+#: aip_magazine-post-type.php:251
+msgid "Authors"
+msgstr "Autori"
+
+#: aip_magazine-post-type.php:251
+msgid "each author on a new line"
+msgstr "ogni autore su una nuova riga"
+
+#: aip_magazine-post-type.php:260 aip_magazine-taxonomy.php:393
+msgid "View PDF Version"
+msgstr "Mostra la versione PDF"
+
+#: aip_magazine-post-type.php:264 aip_magazine-taxonomy.php:394
+msgid "Remove PDF Version"
+msgstr "Rimuovi la versione PDF"
+
+#: aip_magazine-post-type.php:276 aip_magazine-taxonomy.php:412
+msgid "PDF Version"
+msgstr "Versione PDF"
+
+#: aip_magazine-post-type.php:281 aip_magazine-taxonomy.php:417
+msgid "Issue-to-PDF Generated PDF"
+msgstr "Fascicolo-PDF Generato"
+
+#: aip_magazine-post-type.php:286
+msgid "First Page (used by Google Scholar)"
+msgstr "Prima Pagina (utilizzato da Google Scholar)"
+
+#: aip_magazine-post-type.php:292
+msgid "Last Page (used by Google Scholar)"
+msgstr "Ultima Pagina (utilizzato da Google Scholar)"
+
+#: aip_magazine-post-type.php:336
+msgid "Select a Journal"
+msgstr "Seleziona una Rivista"
+
+#: aip_magazine-post-type.php:337
+msgid "Select an Issue"
+msgstr "Seleziona un Fascicolo"
+
+#: aip_magazine-post-type.php:498
+msgid "Show All Journals"
+msgstr "Mostra tutte le Riviste"
+
+#: aip_magazine-post-type.php:553
+msgid "Show All Issues"
+msgstr "Mostra tutti i Fascicoli"
+
+#: aip_magazine-post-type.php:609
+msgid "Show All Categories"
+msgstr "Mostra tutte le Rubriche"
+
+#: aip_magazine-shortcodes.php:270 aip_magazine-shortcodes.php:553
+msgid "Issue Management by "
+msgstr "Gestione del Fascicolo di "
+
+#: aip_magazine-shortcodes.php:290
+msgid "No PDF related to the Issue"
+msgstr "Nessun PDF collegato al Fascicolo"
+
+#: aip_magazine-shortcodes.php:293
+msgid "No article found"
+msgstr "Nessun Articolo trovato"
+
+#: aip_magazine-shortcodes.php:537 aip_magazine-shortcodes.php:544
+msgid "Previous Archives"
+msgstr "Precedenti"
+
+#: aip_magazine-shortcodes.php:541 aip_magazine-shortcodes.php:545
+msgid "Next Archives"
+msgstr "Successivi"
+
+#: aip_magazine-shortcodes.php:578
+msgid "You have to install the PRO version to use this shortcode"
+msgstr "Devi installare la versione PRO per utilizzare questo shortcode"
+
+#: aip_magazine-tags-taxonomy.php:21 aip_magazine-tags-taxonomy.php:31
+msgid "Article Tags"
+msgstr "Tag"
+
+#: aip_magazine-tags-taxonomy.php:22
+msgid "Article Tag"
+msgstr "Tag"
+
+#: aip_magazine-tags-taxonomy.php:23
+msgid "Search Article Tags"
+msgstr "Cerca i Tag"
+
+#: aip_magazine-tags-taxonomy.php:24
+msgid "All Article Tags"
+msgstr "Tutti i Tag"
+
+#: aip_magazine-tags-taxonomy.php:25
+msgid "Parent Article Tag"
+msgstr "Tag Superiore"
+
+#: aip_magazine-tags-taxonomy.php:26
+msgid "Parent Article Tag:"
+msgstr "Tag Superiore:"
+
+#: aip_magazine-tags-taxonomy.php:27
+msgid "Edit Article Tag"
+msgstr "Modifica il Tag"
+
+#: aip_magazine-tags-taxonomy.php:28
+msgid "Update Article Tag"
+msgstr "Aggiorna il Tag"
+
+#: aip_magazine-tags-taxonomy.php:29
+msgid "Add New Article Tag"
+msgstr "Aggiungi un Tag"
+
+#: aip_magazine-tags-taxonomy.php:30
+msgid "New Article Tag"
+msgstr "Nuovo Tag"
+
+#: aip_magazine-taxonomy.php:20 aip_magazine-taxonomy.php:30
+msgid "Issues"
+msgstr "Fascicoli"
+
+#: aip_magazine-taxonomy.php:22
+msgid "Search Issues"
+msgstr "Cerca Fascicoli"
+
+#: aip_magazine-taxonomy.php:23 aip_magazine-widgets.php:495
+msgid "All Issues"
+msgstr "Tutti i Fascicoli"
+
+#: aip_magazine-taxonomy.php:24
+msgid "Parent Issues"
+msgstr "Fascicolo Superiore"
+
+#: aip_magazine-taxonomy.php:25
+msgid "Parent Issues:"
+msgstr "Fascicolo Superiore:"
+
+#: aip_magazine-taxonomy.php:26
+msgid "Edit Issues"
+msgstr "Modifica Fascicoli"
+
+#: aip_magazine-taxonomy.php:27
+msgid "Update Issues"
+msgstr "Aggiorna i Fascicoli"
+
+#: aip_magazine-taxonomy.php:28
+msgid "Add New Issues"
+msgstr "Aggiungi un nuovo Fascicolo"
+
+#: aip_magazine-taxonomy.php:29
+msgid "New Issue"
+msgstr "Nuovo Fascicolo"
+
+#: aip_magazine-taxonomy.php:70 aip_magazine-taxonomy.php:728
+msgid "Issue Title"
+msgstr "Titolo"
+
+#: aip_magazine-taxonomy.php:71 aip_magazine-taxonomy.php:256
+#: aip_magazine-taxonomy.php:339
+msgid "Issue Date"
+msgstr "Data di Pubblicazione"
+
+#: aip_magazine-taxonomy.php:72 aip_magazine-taxonomy.php:267
+#: aip_magazine-taxonomy.php:348
+msgid "Issue Order"
+msgstr "Numero d'Ordine Fascicolo"
+
+#: aip_magazine-taxonomy.php:73 aip_magazine-taxonomy.php:262
+#: aip_magazine-taxonomy.php:343
+msgid "Issue Status"
+msgstr "Stato del Fascicolo"
+
+#: aip_magazine-taxonomy.php:353
+msgid "Issue Volume"
+msgstr "Volume del Fascicolo"
+
+#: aip_magazine-taxonomy.php:368
+msgid "Remove Cover Image"
+msgstr "Rimuovi l'Immagine di Copertina"
+
+#: aip_magazine-taxonomy.php:379
+msgid "Cover Image"
+msgstr "Immagine di Copertina"
+
+#: aip_magazine-taxonomy.php:405
+msgid "External Issue Link"
+msgstr "Link Esterno al Fascicolo"
+
+#: aip_magazine-taxonomy.php:407
+msgid ""
+"Use http://domain-name - Leave empty if you do not want your issue to link "
+"to an external source."
+msgstr ""
+"Usa http://nome-dominio - Lascialo vuoto se non vuoi collegare il tuo "
+"Fascicolo ad una risorsa esterna."
+
+#: aip_magazine-taxonomy.php:423
+msgid "External PDF Link"
+msgstr "Link Esterno al PDF"
+
+#: aip_magazine-taxonomy.php:425
+msgid "Leave empty if you do not want your PDF to link to an external source."
+msgstr ""
+"Lascialo vuoto se non vuoi collegare il tuo Fascicolo PDF ad una risorsa "
+"esterna."
+
+#: aip_magazine-taxonomy.php:483
+msgid "Date format dd/mm/yyyy"
+msgstr "Formato data gg/mm/aaaa"
+
+#: aip_magazine-taxonomy.php:498
+msgid "Issue Date inconsistent, record not updated"
+msgstr "Numero d'Ordine Fascicolo non corretto, record non aggiornato"
+
+#: aip_magazine-taxonomy.php:578
+msgid "Issue Order already used"
+msgstr "Numero d'Ordine Fascicolo già in uso"
+
+#: aip_magazine-taxonomy.php:592
+msgid "Issue Order inconsistent, record not updated"
+msgstr "Numero d'Ordine Fascicolo non corretto, record non aggiornato"
+
+#: aip_magazine-widgets.php:39
+msgid "Displays the active AipMagazine Issue details"
+msgstr "Visualizza i Dettagli dell'Ultimo Fascicolo"
+
+#: aip_magazine-widgets.php:40
+msgid "AipMagazine Active Issue"
+msgstr "Fascicolo Attivo AipMagazine"
+
+#: aip_magazine-widgets.php:208 aip_magazine-widgets.php:470
+#: aip_magazine-widgets.php:658
+msgid "Title:"
+msgstr "Titolo:"
+
+#: aip_magazine-widgets.php:218 aip_magazine-widgets.php:479
+#: aip_magazine-widgets.php:665
+msgid "Select Journal to Display:"
+msgstr "Seleziona la Rivista da Mostrare:"
+
+#: aip_magazine-widgets.php:229
+msgid "Display Issue Title"
+msgstr "Visualizza il Titolo del Fascicolo"
+
+#: aip_magazine-widgets.php:234
+msgid "Display Issue Cover Image"
+msgstr "Visualizza l'Immagine di Copertina"
+
+#: aip_magazine-widgets.php:239
+msgid "Display Issue PDF Link"
+msgstr "Visualizza il Link al PDF"
+
+#: aip_magazine-widgets.php:246 aip_magazine-widgets.php:570
+msgid "You have to create a issue before you can use this widget."
+msgstr ""
+"Devi creare almeno un Fascicolo prima di poter utilizzare questo Widget."
+
+#: aip_magazine-widgets.php:268
+msgid "Sidebar widget to display the current articles."
+msgstr "Widget per mostrare gli Articoli dell'Ultimo Fascicolo."
+
+#: aip_magazine-widgets.php:270
+msgid "AipMagazine Article List"
+msgstr "Lista di Articoli AipMagazine"
+
+#: aip_magazine-widgets.php:492
+msgid "Select Issue to Display:"
+msgstr "Scegli il Fascicolo da mostrare:"
+
+#: aip_magazine-widgets.php:506
+msgid "Select Category to Display:"
+msgstr "Scegli la Rubrica da mostrare:"
+
+#: aip_magazine-widgets.php:516
+msgid "Number of Articles to Show:"
+msgstr "Numero di Articoli da mostrare:"
+
+#: aip_magazine-widgets.php:525
+msgid "Article ID"
+msgstr "ID dell'Articolo"
+
+#: aip_magazine-widgets.php:526
+msgid "Article Author"
+msgstr "Autore dell'Articolo"
+
+#: aip_magazine-widgets.php:527
+msgid "Article Title"
+msgstr "Titolo dell'Articolo"
+
+#: aip_magazine-widgets.php:528
+msgid "Article Name"
+msgstr "Nome dell'Articolo"
+
+#: aip_magazine-widgets.php:529
+msgid "Article Publish Date"
+msgstr "Data di Pubblicazione dell'Articolo"
+
+#: aip_magazine-widgets.php:530
+msgid "Article Modified Date"
+msgstr "Data di Modifica dell'Articolo"
+
+#: aip_magazine-widgets.php:531
+msgid "Article Order"
+msgstr "Numero d'Ordine Articolo"
+
+#: aip_magazine-widgets.php:532
+msgid "Random Order"
+msgstr "Ordine Casuale"
+
+#: aip_magazine-widgets.php:533
+msgid "Comment Count"
+msgstr "Conteggio dei Commenti"
+
+#: aip_magazine-widgets.php:537
+msgid "Select Sort Order:"
+msgstr "Scegli un Ordinamento:"
+
+#: aip_magazine-widgets.php:548
+msgid "Descending"
+msgstr "Discentente"
+
+#: aip_magazine-widgets.php:549
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: aip_magazine-widgets.php:553
+msgid "Select Order Direction:"
+msgstr "Scegli la Direzione dell'Ordinamento:"
+
+#: aip_magazine-widgets.php:562
+msgid "Article Format:"
+msgstr "Formato dell'Articolo:"
+
+#: aip_magazine-widgets.php:565
+msgid "See AipMagazine Help for details on article formatting"
+msgstr "Guarda le Istruzioni per i dettagli sulla  formattazione dell'Articolo"
+
+#: aip_magazine-widgets.php:588
+msgid "A list or dropdown of Article categories"
+msgstr "Un elenco o dropdown di Rubriche"
+
+#: aip_magazine-widgets.php:588
+msgid "AipMagazine Article Categories"
+msgstr "Elenco Rubriche AipMagazine"
+
+#: aip_magazine-widgets.php:593
+msgid "Article Categories"
+msgstr "Rubriche"
+
+#: aip_magazine-widgets.php:606
+msgid "Select Article Category"
+msgstr "Seleziona una Rubrica"
+
+#: aip_magazine-widgets.php:676
+msgid "Display as dropdown"
+msgstr "Mostra come dropdown"
+
+#: aip_magazine-widgets.php:679
+msgid "Show product counts"
+msgstr "Mostra il conteggio"
+
+#. Description of the plugin/theme
+msgid ""
+"A feature rich magazine and newspaper issue manager plugin for WordPress."
+msgstr ""
+"Un plugin ricco di funzionalità per la gestione di giornali e riviste su "
+"Wordpress."
+
+#. Author of the plugin/theme
+msgid "Archimede Informatica Development Team"
+msgstr "Team di Sviluppo di Archimede Informatica"
+
+#. Author URI of the plugin/theme
+msgid "http://www.archicoop.it/"
+msgstr "http://www.archicoop.it/"
+
+#~ msgid "Go to Articles->AipMagazine Settings"
+#~ msgstr "Vai su Magazine->Impostazioni"
+
+#~ msgid "Go to Articles->Add New"
+#~ msgstr "Vai su Pagine->Aggiungi nuova"
+
+#~ msgid "Setting \"PDF Title\""
+#~ msgstr "Imposta il \"Titolo del PDF\""
+
+#~ msgid "Setting \"Default Cover Image\""
+#~ msgstr "Imposta la \"Immagine di Copertina di Default\""
+
+#~ msgid "Text"
+#~ msgstr "Testo"
+
+#~ msgid "Image URL"
+#~ msgstr "URL Immagine"
+
+#~ msgid "Download Now"
+#~ msgstr "Scarica ora"
+
+#~ msgid "Show hierarchy"
+#~ msgstr "Mostra la Gerarchia"
+
+#~ msgid "First Page"
+#~ msgstr "Prima Pagina"
+
+#~ msgid "Last Page"
+#~ msgstr "Ultima Pagina"
+
+#~ msgid ""
+#~ "Create a page for your issue. We recommend using \"Issue Index\" as the "
+#~ "page title."
+#~ msgstr ""
+#~ "Crea una pagina per il tuo Fascicolo. Si consiglia di usare \"Indice "
+#~ "Fascicolo\" come titolo di pagina."
+
+#~ msgid "Choose your page for articles (your \"Issue Index\" page)"
+#~ msgstr ""
+#~ "Seleziona la pagina per l'Indice del Fascicolo (pagina Indice Fascicolo) "
+
+#~ msgid "4. Create a Journal (only in the pro version)"
+#~ msgstr "4. Creare una Rivista (disponibile solo nella versione pro)"
+
+#~ msgid ""
+#~ "You can find the journals already created in the list beside and edit or "
+#~ "delete them if necessary"
+#~ msgstr ""
+#~ "Puoi trovare le riviste già create nell'elenco di fianco e modificarle o "
+#~ "cancellarle se necessario"
+
+#~ msgid "5. Create an Issue"
+#~ msgstr "5. Creare un Fascicolo "
+
+#~ msgid ""
+#~ "Enter the name of the issue (i.e. Summer 2016) and click \"Add New Issues"
+#~ "\""
+#~ msgstr ""
+#~ "Inserisci il nome del Fascicolo (ad es. Estate 2016) e clicca su "
+#~ "\"Aggiungi un nuovo Fascicolo\""
+
+#~ msgid "6. Create a Category"
+#~ msgstr "6. Creare una Rubrica"
+
+#~ msgid ""
+#~ "Enter the name of the category, the slug and the description if "
+#~ "necessary, the Category Order (it will be used for sorting the Issue "
+#~ "Index), select the Journal in the dropdown and click \"Add New Category\""
+#~ msgstr ""
+#~ "Inserisci il nome della Rubrica, lo slug e la descrizione se necessario, "
+#~ "il Numero d'Ordine Rubrica (sarà usato per ordinare l'Indice del "
+#~ "Fascicolo), seleziona la Rivista di appartenenza nel menù a tendina "
+#~ "Riviste e clicca su Aggiungi una Rubrica"
+
+#~ msgid ""
+#~ "You can find the categories already created in the list beside and edit "
+#~ "or delete them if necessary. You have to use the dropdown \"Filter by "
+#~ "Journal\" to see the related categories"
+#~ msgstr ""
+#~ "Puoi trovare le rubriche già create nell'elenco di fianco e modificarlo o "
+#~ "cancellarle se necessario. Devi utilizzare il menù a tendina \"Filtra per "
+#~ "Rivista\" per visualizzare le Rubriche relative ad una Rivista"
+
+#~ msgid ""
+#~ "Check \"Add article to Featured Rotator\" if you want to show this "
+#~ "article in the Slider Shortcode (only in the pro version)"
+#~ msgstr ""
+#~ "Clicca sul check \"Mostra nello Slider degli Articoli in Evidenza\" se "
+#~ "vuoi che questo articolo sia visualizzato nello Shortcode dello Slider "
+#~ "(disponibile solo nella versione pro)"
+
+#~ msgid ""
+#~ "Check \"Add article to Featured Thumbnails\" if you want to show this "
+#~ "article in the Thumbnails Shortcode"
+#~ msgstr ""
+#~ "Clicca sul check \"Mostra nella Griglia degli Articoli in Evidenza\" se "
+#~ "vuoi che questo articolo sia visualizzato nello Shortcode delle Immagini "
+#~ "di Anteprima"
+
+#~ msgid ""
+#~ "Enter the Teaser Text, the Authors (separated by a new line, they will be "
+#~ "also used in Google Scholar metatags) and content for your article, just "
+#~ "like a normal WordPress post"
+#~ msgstr ""
+#~ "Inserisci l'occhiello, gli Autori (separati da a capo, saranno anche "
+#~ "utilizzati nei metadati Google Scholar) e il contenuto del tuo articolo, "
+#~ "come fai normalmente con i post di WordPress"
+
+#~ msgid "Upload the PDF version using \"Select Files\" button"
+#~ msgstr "Carica la versione PDF usando il bottone Sfoglia"
+
+#~ msgid ""
+#~ "Enter the First Page and Last Page (only in the pro version, it will be "
+#~ "used in Google Scholar metatags)"
+#~ msgstr ""
+#~ "Inserisci la Prima Pagina e l'Ultima Pagina (solo nella versione pro "
+#~ "saranno utilizzate nei metadati Google Scholar)"
+
+#~ msgid ""
+#~ "Add a featured image, if applicable (in the pro version it will be also "
+#~ "used in the Slider Shortcode)"
+#~ msgstr ""
+#~ "Aggiungi un'immagine in evidenza, se necessario (nella versione pro sarà "
+#~ "anche utilizzata nello Shortcode dello Slider)"
+
+#~ msgid ""
+#~ "Choose the Journal the article is related to in the Journals sidebar area"
+#~ msgstr ""
+#~ "Seleziona la Rivista a cui appartiene l'Articolo nella area sidebar "
+#~ "Riviste"
+
+#~ msgid ""
+#~ "Choose the Category the article is related to in the Categories sidebar "
+#~ "area"
+#~ msgstr ""
+#~ "Seleziona la Rubrica a cui appartiene l'Articolo nell'area sidebar "
+#~ "Rubriche"
+
+#~ msgid "Enter the order of the article (inside the related issue)"
+#~ msgstr ""
+#~ "Inserisci l'ordinamento dell'Articolo (rispetto agli altri articoli del "
+#~ "Fascicolo di appartenenza)"
+
+#~ msgid "Draft"
+#~ msgstr "Lavorazione"
+
+#~ msgid "Live"
+#~ msgstr "Pubblicato"
+
+#~ msgid "PDF Archive"
+#~ msgstr "Solo PDF"
+
+#~ msgid "no journal selected"
+#~ msgstr "Nessuna Rivista selezionata"
+
+#~ msgid "Filter by top parent"
+#~ msgstr "Filtra per elemento superiore"
+
+#~ msgid "Display pagination below the slider"
+#~ msgstr "Mostra la paginazione in alto nello slider"
+
+#~ msgid "parent_item_colon"
+#~ msgstr "parent_item_colon"
+
+#~ msgid "Show All Fascicoli"
+#~ msgstr "Mostra tutti i Fascicoli"
